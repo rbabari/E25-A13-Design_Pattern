@@ -1,9 +1,10 @@
+package com.exemple;
+
 /**
  * Class singleton
  * Une seule instance
- *
  */
-class Singleton
+public class Singleton
 {
     /**
      * instance ...
