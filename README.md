@@ -25,6 +25,14 @@ class Main {
 ```
 
 
-
+```mermaid 
+classDiagram
+direction BT
+class Singleton {
+  - Singleton() 
+  - Singleton instance
+  + getInstance() Singleton
+}
+```
 
  
